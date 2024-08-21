@@ -17,15 +17,17 @@ Data Sources and Methodology
 The project utilizes two primary data sources:
 
 Foursquare Location Data: This data is used to retrieve the names and locations of hotels in Istanbul, as well as the most common venues (e.g., restaurants, cafes, museums) in each neighborhood.
+
 Airbnb Data for Istanbul: This data provides information on Airbnb rental prices, locations, and other relevant details.
+
 
 The methodology involves the following steps:
 
-Scrape the Foursquare data to obtain the hotel locations and nearby venues for each neighborhood in Istanbul.
-Integrate the Airbnb data to add rental information, including prices and coordinates, to the dataset.
-Analyze the distribution and clustering of hotels and Airbnb rentals across different neighborhoods, identifying the most popular and tourist-friendly areas.
-Visualize the data on interactive maps, allowing users to explore the accommodation options and their surrounding features.
-Provide recommendations to tourists on the most suitable neighborhoods and accommodation types based on their preferences and budget.
+- Scrape the Foursquare data to obtain the hotel locations and nearby venues for each neighborhood in Istanbul.
+- Integrate the Airbnb data to add rental information, including prices and coordinates, to the dataset.
+- Analyze the distribution and clustering of hotels and Airbnb rentals across different neighborhoods, identifying the most popular and tourist-friendly areas.
+- Visualize the data on interactive maps, allowing users to explore the accommodation options and their surrounding features.
+- Provide recommendations to tourists on the most suitable neighborhoods and accommodation types based on their preferences and budget.
 
 Expected Outcomes
 By completing this project, we aim to provide tourists with a comprehensive and user-friendly platform to explore and compare accommodation options in Istanbul. The insights derived from the data integration and analysis will help tourists make more informed decisions, leading to a more enjoyable and tailored travel experience.
