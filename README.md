@@ -2,7 +2,7 @@
 
 Part One:
 Introduction/Business Problem:
-Being one of best spots to feel both the majestic taste of the east and the modernity of the west, with more than 15 million foreign visitors in 2019. Accommodation is a crucial part of the traveling process, usually tourists spend some time looking for the best option, whether staying in a hotel or renting an apartment using services like Airbnb, the area has also to be convenient to stay in, where historical and entertainment places are accessible. Another crucial point is the price, depending on the budget goes choosing the accommodation type and place. In this project, I will try to help accelerating the decision process by providing all the needed information derived from hotels around Istanbul and Airbnb renting data for tourists to weight and have an holistic overview of all possible options.n/
+Being one of best spots to feel both the majestic taste of the east and the modernity of the west, with more than 15 million foreign visitors in 2019. Accommodation is a crucial part of the traveling process, usually tourists spend some time looking for the best option, whether staying in a hotel or renting an apartment using services like Airbnb, the area has also to be convenient to stay in, where historical and entertainment places are accessible. Another crucial point is the price, depending on the budget goes choosing the accommodation type and place. In this project, I will try to help accelerating the decision process by providing all the needed information derived from hotels around Istanbul and Airbnb renting data for tourists to weight and have an holistic overview of all possible options.
 
 
 Data Discribtion:
