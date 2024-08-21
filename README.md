@@ -1,8 +1,31 @@
 # Navigating Istanbul's Hospitality Landscape: Integrating Hotel and Airbnb Data to Enhance the Tourist Experience
 
-Business Problem:
-Being one of best spots to feel both the majestic taste of the east and the modernity of the west, with more than 15 million foreign visitors in 2019. Accommodation is a crucial part of the traveling process, usually tourists spend some time looking for the best option, whether staying in a hotel or renting an apartment using services like Airbnb, the area has also to be convenient to stay in, where historical and entertainment places are accessible. Another crucial point is the price, depending on the budget goes choosing the accommodation type and place. In this project, I will try to help accelerating the decision process by providing all the needed information derived from hotels around Istanbul and Airbnb renting data for tourists to weight and have an holistic overview of all possible options.
+Introduction
+Istanbul is a vibrant city that seamlessly blends the majestic essence of the East with the modernity of the West, attracting over 15 million foreign visitors in 2019. Accommodation plays a crucial role in the overall travel experience, as tourists often spend significant time searching for the best options, whether staying in hotels or renting apartments through platforms like Airbnb. The choice of accommodation not only depends on the budget but also on the convenience and proximity to historical and entertainment sites.
+Business Problem
+This project aims to accelerate the decision-making process for tourists by providing a comprehensive overview of the accommodation options in Istanbul. By integrating data from Foursquare (for hotel locations and nearby venues) and Airbnb (for rental prices and locations), the project seeks to empower tourists to make more informed decisions when planning their stay in the city.
 
+Objectives
 
-Data Description:
-In this project I will be using two sources of data, first is the Forsquare location data to get the name of the hotels and the boroughs they belong to in the first step, then deriving the most common venues in each borough. To get the complete picture, I will be using Airbnb data, to get the prices and both latitude and longitude of each presented unit. For example, Istanbul has 39 borough and a touristic could be Fatih, so first we will be using Forsquare to get the hotels in this part of the city and then get the common venues like restaurants, cafes, and museums. In the next step the Airbnb rentals will be added to the equation, how much does each cost and its type alongside other details derived from Airbnb Istanbul of 2019 dataset.
+Gather and integrate data from Foursquare and Airbnb to create a unified dataset of accommodation options and their surrounding amenities in Istanbul.
+Analyze the distribution of hotels and Airbnb rentals across different neighborhoods in Istanbul, identifying the most popular and tourist-friendly areas.
+Cluster the neighborhoods based on the types of venues and amenities available, providing insights into the character and offerings of different parts of the city.
+Visualize the data on interactive maps, allowing users to explore the accommodation options and their surrounding features.
+Provide recommendations to tourists on the most suitable neighborhoods and accommodation types based on their preferences and budget.
+
+Data Sources and Methodology
+The project utilizes two primary data sources:
+
+Foursquare Location Data: This data is used to retrieve the names and locations of hotels in Istanbul, as well as the most common venues (e.g., restaurants, cafes, museums) in each neighborhood.
+Airbnb Data for Istanbul: This data provides information on Airbnb rental prices, locations, and other relevant details.
+
+The methodology involves the following steps:
+
+Scrape the Foursquare data to obtain the hotel locations and nearby venues for each neighborhood in Istanbul.
+Integrate the Airbnb data to add rental information, including prices and coordinates, to the dataset.
+Analyze the distribution and clustering of hotels and Airbnb rentals across different neighborhoods, identifying the most popular and tourist-friendly areas.
+Visualize the data on interactive maps, allowing users to explore the accommodation options and their surrounding features.
+Provide recommendations to tourists on the most suitable neighborhoods and accommodation types based on their preferences and budget.
+
+Expected Outcomes
+By completing this project, we aim to provide tourists with a comprehensive and user-friendly platform to explore and compare accommodation options in Istanbul. The insights derived from the data integration and analysis will help tourists make more informed decisions, leading to a more enjoyable and tailored travel experience.
